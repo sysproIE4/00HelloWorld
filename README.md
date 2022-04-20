@@ -9,6 +9,7 @@
 1. 課題を受け取る．
 
   - Teamsの投稿やメールで届いたリンクをクリックする．
+  （初回はGitHub ClassroomとGitHubのアカウントを結びつける操作がある）
   - Webブラウザに表示された`Accept this assignment`ボタンをクリックする．
   - 自分専用の課題レポジトリがGitHub上に作成される．
   - 表示されたリンク`https://github.com/SysProIE4-20...`をクリックする．<br>

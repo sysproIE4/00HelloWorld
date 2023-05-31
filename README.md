@@ -50,5 +50,5 @@
   - メールに書かれたコメントをよく読む．
   - 「合格」がもらえるまで「変更，コミット，提出」を繰り返す．<br>
     （変更はローカルなレポジトリに続けて下さい．_pullやcloneをしてはいけません_）
-  - Webでレポジトリを見た時_「Merge pull request」や「Close pull request」をしない．_<br>
+  - Webでレポジトリを見た時「Merge pull request」や「Close pull request」をしない．<br>
     （再提出しても教員に通知が行かないくなる）
